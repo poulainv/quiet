@@ -42,7 +42,7 @@
         "@types/node-emoji": "^1.8.1",
         "@types/node-fetch": "^2.5.2",
         "@types/spotify-web-api-node": "^4.0.1",
-        "apollo-server": "^2.13.1",
+        "apollo-server": "^2.14.2",
         "aws-sdk": "^2.675.0",
         "cheerio": "^1.0.0-rc.3",
         "cuid": "^2.1.8",
